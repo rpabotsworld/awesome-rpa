@@ -1,16 +1,15 @@
 # Contribution Guidelines
-Unfortunately, not every library, tool or framework can be considered for inclusion. The aim of Awesome PHP is to be a concise list of noteworthy and interesting software written in modern PHP. Therefore, suggested software should:
+Unfortunately, not every link, library, tool or framework can be considered for inclusion. The aim of Awesome RPA is to be a concise list of noteworthy and interesting deatils around. Therefore, suggested link should:
 
 1. Be widely recommended
-2. Well known or discussed within the PHP community
+2. Well known or discussed within the RPA community
 3. Be unique in its approach or function
 4. Fill a niche gap in the market
 
-Self-promotion is frowned upon, so please consider seriously whether your project meets the criteria before opening a pull request, otherwise it may be closed without being reviewed.
+Self-promotion is frowned upon, so please consider seriously whether your links meets the criteria before opening a pull request, otherwise it may be closed without being reviewed.
 
 Also, please ensure your pull request adheres to the following guidelines:
 
-* Software that is PHP 7.0+, Composer-installable, PSR compliant, semantically versioned, unit tested, actively maintained and well documented in English.
 * Please search previous suggestions before making a new one, as yours may be a duplicate.
 * Enter a meaningful pull request description.
 * Please make an individual commit for each suggestion in a separate pull request.
