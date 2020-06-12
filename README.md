@@ -64,7 +64,7 @@ Please see [CONTRIBUTING](https://github.com/rpabotsworld/awesome-rpa/blob/maste
 ## Must read blogs for RPA
 
  1. [UiPath Blog](https://www.uipath.com/blog/ultimate-rpa-glossary-of-terms) - Blog by Uipath
- 2. [Automation Anywhere Blog] (https://www.automationanywhere.com/in/blog ) - AA Official Blogs 
+ 2. [Automation Anywhere Blog](https://www.automationanywhere.com/in/blog ) - AA Official Blogs 
  3. [Forrester Research Blog](https://go.forrester.com/blogs/category/robotic-process-automation-rpa/) - Reports 
  4. [HFS Research](https://www.horsesforsources.com/category/robotic-process-automation) - Famous for RPA reports & scrupulous information about RPA
  5. [BluePrism Blog](https://www.blueprism.com/resources/blog) - Blog by BluePrism
