@@ -1,5 +1,5 @@
 # Collaboration Guidelines
-As a collaborator you are representing the Awesome PHP project to the community. Please adhere to the following guidelines to give everyone the best experience possible: 
+As a collaborator you are representing the Awesome RPA project to the community. Please adhere to the following guidelines to give everyone the best experience possible: 
 
 ## Etiquette
 Please adhere to the [CODE-OF-CONDUCT](https://github.com/rpabotsworld/awesome-rpa/blob/master/CODE-OF-CONDUCT.md) when reviewing suggestions and participating in discussions on the project's Github account.
