@@ -37,7 +37,7 @@ Please see [CONTRIBUTING](https://github.com/rpabotsworld/awesome-rpa/blob/maste
  - [OPEN RPA](https://openrpa.openrpa.dk/)
  - [Perpetuuiti ](https://www.ptechnosoft.com/)
  - [Pega Robotic Process Automation](https://www.pega.com/products/platform/robotic-process-automation)
- - [robocorp](https://robocorp.com/)
+ - [robocorp](https://robocorp.com/) - Robocorp is a cloud platform for robotic process automation and open source RPA tools.
  - [Softomotive ](https://www.softomotive.com/) - Acquired by Microsoft.
  - [TAGUI](https://aisingapore.org/tagui/) - AI Singapore’s Open Source Robotic Process Automation (RPA) Tool
  - [VisualCron](https://www.visualcron.com/)
