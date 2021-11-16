@@ -54,7 +54,7 @@ Please see [CONTRIBUTING](https://github.com/rpabotsworld/awesome-rpa/blob/maste
  - [Chatbot.uipath](https://chatbot.uipath.com/) - Portal to manage all your Chatbots connections
  - [uipath.onlinetests.app](https://uipath.onlinetests.app/) - Practise Portal for certification
  - [docs.uipath](https://docs.uipath.com/) - UiPath Documentation Portal 
- - 
+ 
 
 ### Important links of BluePrism
 
@@ -104,8 +104,14 @@ Please see [CONTRIBUTING](https://github.com/rpabotsworld/awesome-rpa/blob/maste
  17. [c-sharpcorner.com](https://www.c-sharpcorner.com/technologies/rpa-articles)- Various Automation Examples Using UiPath Studio
  18. [ui.vision](https://ui.vision/blog/) -  Events Coverge of RPA
  19. [rpatech.in](https://www.rpatech.in/category/blog/) - Blogs by RPATech.in 
- 20. [nandan.info](https://nandan.info/complete-beginners-guide-to-robotic-process-automation-rpa/) 
+ 20. [nandan.info](https://nandan.info/complete-beginners-guide-to-robotic-process-automation-rpa/) - By Nandan Mullakara
  21. [disruptionhub.com](https://disruptionhub.com/tag/robotic-process-automation/)
+ 22. [Digital Workforce](https://digitalworkforce.com/rpa-news/) - Digital Workforce is a leading service provider specialising in Intelligent Process Automation (IPA) services on an industrial scale. 
+ 23. [rpasuccess](https://rpasuccess.com/) 
+ 24. [Robomotion](https://www.robomotion.io/blog/) -Help companies to automate their manual processes with RPA
+ 25. [blog.symphonyhq.com](https://blog.symphonyhq.com/topic/rpa) - Symphony, a SYKES company
+ 26. [Edureka](https://www.edureka.co/blog/category/robotic-process-automation/)
+
  
  
 
