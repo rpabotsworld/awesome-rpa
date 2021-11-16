@@ -13,21 +13,34 @@ Please see [CONTRIBUTING](https://github.com/rpabotsworld/awesome-rpa/blob/maste
 
  - [Automation Anywhere](https://www.automationanywhere.com/)
  - [Blue Prism](https://www.blueprism.com/)
- -  [UiPath](https://www.uipath.com/)
+ - [UiPath](https://www.uipath.com/)
+ - [Microsoft Power Automate](https://us.flow.microsoft.com/en-us/)
  - [Another Monday](https://www.anothermonday.com/)
  - [ant.works](https://www.ant.works/)
+ - [Automai Robotic Process Automation (RPA)](https://www.automai.com/rpa-robotic-process-automation/)
+ - [AutomationEdge](https://automationedge.com/)
  - [Argos-labs](https://www.argos-labs.com/)
  - [Syntbots](https://www.atos-syntel.net/syntbots)
- - [ Automai RPA](https://www.automai.com/robotic-process-automation-with-automai)
+ - [Automai RPA](https://www.automai.com/robotic-process-automation-with-automai)
+ - [Cloudstorm](https://www.cloudstorm.io/)
+ - [Datamatics TruBot RPA ](https://www.datamatics.com/intelligent-automation/rpa-trubot/)
+ - [EdgeVerve](https://www.edgeverve.com/about/) - Wholly owned subsidiary of Infosys
+ - [GIBots](https://www.gibots.com/about-us.html)
  - [INTELLIBOT](https://intellibot.io/)
  - [Jacada](https://www.jacada.com/)
- - [Kofax Kapow_](https://www.kofax.com/Products/rpa/overview)
+ - [jiffy.ai](https://jiffy.ai/)
+ - [Kofax Kapow](https://www.kofax.com/Products/rpa/overview)
  - [Kryon](https://www.kryonsystems.com/)
  - [NICE](https://www.nice.com/)
+ - [Nividous](https://nividous.com/)
+ - [Netcal](https://www.netcall.com/about/) - Automagica acquired by Netcall.
  - [OPEN RPA](https://openrpa.openrpa.dk/)
- - [jiffy.ai](https://jiffy.ai/)
+ - [Perpetuuiti ](https://www.ptechnosoft.com/)
+ - [Pega Robotic Process Automation](https://www.pega.com/products/platform/robotic-process-automation)
  - [robocorp](https://robocorp.com/)
- - [Softomotive ](https://www.softomotive.com/) - Recently acquired by Microsoft.
+ - [Softomotive ](https://www.softomotive.com/) - Acquired by Microsoft.
+ - [TAGUI](https://aisingapore.org/tagui/) - AI Singapore’s Open Source Robotic Process Automation (RPA) Tool
+ - [VisualCron](https://www.visualcron.com/)
  - [WorkFusion](https://www.workfusion.com/)
  
  ## Tool Specific Links 
@@ -60,8 +73,17 @@ Please see [CONTRIBUTING](https://github.com/rpabotsworld/awesome-rpa/blob/maste
  - [COMMUNITY EDITION](https://www.automationanywhere.com/products/enterprise/community-edition)
  
 
+### Importnat links of Microsoft Power Automate
+- [Microsoft Power Automate documentation](https://docs.microsoft.com/en-us/power-automate) -  Learn Microsoft Power Automate using official documentation
+- [Microsoft Power Automate Youtube channel](https://www.youtube.com/channel/UCG98S4lL7nwlN8dxSF322bA)
+- [Microsoft Power Automate Community](https://powerusers.microsoft.com/t5/Microsoft-Power-Automate/ct-p/MPACommunity) - Connect with peers, share ideas, and learn from experts
+- [Power Automate Blogs](https://flow.microsoft.com/en-us/blog/) - Udates in Microsoft Power Automate.
+- [Learning Acedemy ](https://docs.microsoft.com/en-us/learn/modules/introduction-power-automate/) -  Learning paths 
+
+
 
 ## Must read blogs for RPA
+*Fantastic RPA-related blogs.*
 
  1. [UiPath Blog](https://www.uipath.com/blog/ultimate-rpa-glossary-of-terms) - Blog by Uipath
  2. [Automation Anywhere Blog](https://www.automationanywhere.com/in/blog ) - AA Official Blogs 
@@ -90,11 +112,29 @@ Please see [CONTRIBUTING](https://github.com/rpabotsworld/awesome-rpa/blob/maste
 ### RPA Videos
 
 *Fantastic RPA-related videos.*
-
+ - [UiPath Official](https://www.youtube.com/c/UiPath)
  - [RPA Tutorial For Beginners By Edureka](https://www.youtube.com/watch?v=MBl-3Yb30FA) - Robotic Process Automation Full Course - 10 Hours 
  - [UiPath Tutorials By  Intellipaat](https://www.youtube.com/watch?v=CeQ0ESO6Ulw)-RPA Tutorial For Beginners  
  - [Tutorial by Manish Pandey](https://www.youtube.com/channel/UCeXwbw8GolO8Xxg-tyVQsLg) - Many example on UiPath
- 
+ - [Nisarg Kadam](https://www.youtube.com/c/nisargkadam)- Curated list of Uipath Examples and Learning session
+ - [ExpoHub](https://www.youtube.com/c/UiPathExpoHub) - Learn the Uipath Basic Content with detailed explanation videos
+ - [Anders Jensen](https://www.youtube.com/c/AndersJensenorg) - Step by step guide Power Automate and UiPath
+ - [UiPath Learner](https://www.youtube.com/c/UIPathLearner) - Examples to showcase the Power of Robotic Process Automation using UiPath
+ - [AUTOMATE WITH UIPATH](https://www.youtube.com/c/AUTOMATEWITHUIPATH) - Live working examples & interview guides.
+ - [Sharath Raju](https://www.youtube.com/user/MrSharathraju/playlists)- RPA UiPath Course - Go From Zero To Hero - Build 8 RPA UiPath Projects From Scratch
+ - [Manish Pandey](https://www.youtube.com/channel/UCeXwbw8GolO8Xxg-tyVQsLg) - UiPath Robotic Process Automation tutorial step by step videos. 
+- [SAP Intelligent RPA](https://www.youtube.com/c/SAPIntelligentRPA) - AP Intelligent Robotic Process Automation (SAP Intelligent RPA) 
+- [WorkFusion RPA Express Tutorials](https://www.youtube.com/c/WorkFusionRPAExpressTutorialsLessonsMuchMoreByRJ) - Lessons & Much More By RJ
+- [Quality Assurance Lab](https://www.youtube.com/channel/UCFfrg66wWswpMB4vOcQPMqA) - RPA + QA Tutorials
+- [Intellibot RPA](https://www.youtube.com/c/IntellibotRPA) - IntelliBot is a powerful Robotic Process Automation (RPA)platform 
+- [AutomationEdge Robotic Process Automation](https://www.youtube.com/c/AutomationEdgeRoboticProcessAutomation) 
+- [RPA Express](https://www.youtube.com/c/RPAExpress)
+- [RPA Tutorials](https://www.youtube.com/c/RPATutorials/videos)- Automation Anywhere 11
+- [Kryon](https://www.youtube.com/c/Kryonsystems)
+- [Learning RPA Technologies](https://www.youtube.com/c/LearningTechnologies/videos)- Provide you free videos on  Microsoft Power Automate / Microsoft Power Automate Desktop / Blue Prism / Automation Anywhere / UiPath
+- [Blue Prism RPA Platform](https://www.youtube.com/channel/UCUKZj81tFPyc0sb2vo5wRSA)
+- [Reza Dorrani](https://www.youtube.com/watch?v=8O68-cc-QNo)-  Step-by-step tutorial on Microsoft Power Automate flow tips and tricks. 
+- [Microsoft Power Automate](https://www.youtube.com/c/MicrosoftFlow) - Microsoft Power Automate Official
 
 
 ## Code Repositories 
@@ -105,7 +145,16 @@ Please see [CONTRIBUTING](https://github.com/rpabotsworld/awesome-rpa/blob/maste
  - [RPA-Python](https://github.com/tebelorg/RPA-Python)- Python package for RPA (robotic process automation)
  - [TagUI](https://github.com/kelaberetiv/TagUI)- Command-line tool for digital process automation (RPA)
  - [roro](https://github.com/arviedelgado/roro) - Open-source robotic process automation software written in C# and Blazor WebAssembly
+ - [OpenRPA](https://github.com/open-rpa/openrpa) - Open Source Robotic Process Automation Software
+ - [RPA Framework](https://github.com/robocorp/rpaframework) - Sponsored by Robocorp
+ - [UiPath Examples by Sharath](https://github.com/SharathRaju489/UiPath) - Lot of examples on UiPath
+ - [UiPath Dockerized Robot & CI/CD pipelines](https://github.com/AndreiBarbuOz/dockerized-robot)
+ - [Microsoft Power Platform Connectors](https://github.com/microsoft/PowerPlatformConnectors) - Microsoft Power Platform Connectors open source repository
+ - [Robotic Process Automation with Automation Anywhere](https://github.com/PacktPublishing/Robotic-Process-Automation-with-Automation-Anywhere) - This is the code repository for Robotic Process Automation with Automation Anywhere, published by Packt.
  
+
+
+
 
 ## Books 
 *List of Known Books .*
@@ -113,5 +162,12 @@ Please see [CONTRIBUTING](https://github.com/rpabotsworld/awesome-rpa/blob/maste
  - [robotic_process_automation_for_dummies.pdf](https://www.nice.com/rpa/assets/robotic_process_automation_for_dummies.pdf) - NICE Edition
  - [The Robotic Process Automation Handbook: A Guide to Implementing RPA Systems](https://amzn.to/2N514Sp) - Tom Taulli's book is an excellent, practical guide for business leaders and practitioners that look to drive automation
  - [Robotic Process Automation with Blue Prism Quick Start Guide](https://amzn.to/2zvIsaW) - Book on how to design and develop robotic process automation solutions with Blue Prism
- -[Robotic Process Automation Projects: Build real-world RPA solutions using UiPath and Automation]( https://amzn.to/2XTaMgC) - RPA tools Automation Anywhere A2019 and UiPath, for real-world task automation [New in Market]
+ - [Robotic Process Automation Projects: Build real-world RPA solutions using UiPath and Automation](https://amzn.to/2XTaMgC) - RPA tools Automation Anywhere A2019 and UiPath, for real-world task automation [New in Market]
+ - [Robotic Process Automation using UiPath StudioX: A Citizen Developer’s Guide to Hyperautomation](https://amzn.to/3owCSKW) - RPA developers and business users alike, bringing the power and skill set of automation to anyone interested in citizen-led development, specifically UiPath StudioX
+ - [Robotic Process Automation with Automation Anywhere](https://amzn.to/3qL0Ogb)- Discover Automation Anywhere best practices and strategies for building scalable automation solutions for your organization
+ - [INTELLIGENT AUTOMATION: Learn how to harness Artificial Intelligence](https://amzn.to/3Dmwkok) - By Pascal Bornet is a recognized global expert, thought leader, and pioneer in the field of intelligent automation (IA). He founded and led the IA practices for Mckinsey & Company and Ernst & Young (EY), where he drove hundreds of IA transformations across industries. 
+ 
+
+
+
  
