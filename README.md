@@ -81,6 +81,21 @@ Please see [CONTRIBUTING](https://github.com/rpabotsworld/awesome-rpa/blob/maste
 - [Learning Acedemy ](https://docs.microsoft.com/en-us/learn/modules/introduction-power-automate/) -  Learning paths 
 
 
+### Important links of Robocorp’s
+- [Open Source RPA | Intelligent Automation Software](https://robocorp.com/)-  Robocorp’s Open Source Gen2 RPA is better, faster, and is the most cost effective RPA platform in the world - built for developers and teams that want to work smarter, not harder.
+- [RPA Documentation, Training Courses, Certificates | Robocorp](https://robocorp.com/docs)- 
+- [Github](https://github.com/robocorp)- Explore software robots made just for Robocorp
+- [Login Portal](https://cloud.robocorp.com/)- 
+- [Blog](https://robocorp.com/blog)- Robocorp offers its clients the ability to build, scale, deploy, and maintain their robot workforce.
+
+### Important links of SAP Intelligent Robotic Process Automation
+- [SAP Intelligent Robotic Process Automation (SAP Intelligent RPA)]()
+- [Register SAP Intelligent Robotic Process Automation (SAP Intelligent RPA)](https://www.sap.com/cmp/td/sap-intelligent-robotic-process-automation-free-trial.html)- SAP Intelligent RPA Free Trial is waiting for you!
+-[Document](https://help.sap.com/docs/IRPA?locale=en-US&state=PRODUCTION&version=Cloud)-With SAP Intelligent Robotic Process Automation, design and orchestrate software robots that automate business processes.
+- [Start Building Automations with SAP Intelligent RPA](https://developers.sap.com/mission.intelligent-rpa-automations-get-started.html)
+
+
+
 
 ## Must read blogs for RPA
 *Fantastic RPA-related blogs.*
@@ -119,6 +134,9 @@ Please see [CONTRIBUTING](https://github.com/rpabotsworld/awesome-rpa/blob/maste
 
 *Fantastic RPA-related videos.*
  - [UiPath Official](https://www.youtube.com/c/UiPath)
+ - [Automation Anywhere](https://www.youtube.com/c/Automationanywhere)
+ - [Blue Prism](https://www.youtube.com/user/BluePrismLtd)
+ - 
  - [RPA Tutorial For Beginners By Edureka](https://www.youtube.com/watch?v=MBl-3Yb30FA) - Robotic Process Automation Full Course - 10 Hours 
  - [UiPath Tutorials By  Intellipaat](https://www.youtube.com/watch?v=CeQ0ESO6Ulw)-RPA Tutorial For Beginners  
  - [Tutorial by Manish Pandey](https://www.youtube.com/channel/UCeXwbw8GolO8Xxg-tyVQsLg) - Many example on UiPath
@@ -126,7 +144,7 @@ Please see [CONTRIBUTING](https://github.com/rpabotsworld/awesome-rpa/blob/maste
  - [ExpoHub](https://www.youtube.com/c/UiPathExpoHub) - Learn the Uipath Basic Content with detailed explanation videos
  - [Anders Jensen](https://www.youtube.com/c/AndersJensenorg) - Step by step guide Power Automate and UiPath
  - [UiPath Learner](https://www.youtube.com/c/UIPathLearner) - Examples to showcase the Power of Robotic Process Automation using UiPath
- - [AUTOMATE WITH UIPATH](https://www.youtube.com/c/AUTOMATEWITHUIPATH) - Live working examples & interview guides.
+ - [AUTOMATE WITH UIPATH](https://www.youtube.com/c/AUTOMATEWITHUIPATH) - Live working examples & interview guides by Vajranj.
  - [Sharath Raju](https://www.youtube.com/user/MrSharathraju/playlists)- RPA UiPath Course - Go From Zero To Hero - Build 8 RPA UiPath Projects From Scratch
  - [Manish Pandey](https://www.youtube.com/channel/UCeXwbw8GolO8Xxg-tyVQsLg) - UiPath Robotic Process Automation tutorial step by step videos. 
 - [SAP Intelligent RPA](https://www.youtube.com/c/SAPIntelligentRPA) - AP Intelligent Robotic Process Automation (SAP Intelligent RPA) 
@@ -141,6 +159,16 @@ Please see [CONTRIBUTING](https://github.com/rpabotsworld/awesome-rpa/blob/maste
 - [Blue Prism RPA Platform](https://www.youtube.com/channel/UCUKZj81tFPyc0sb2vo5wRSA)
 - [Reza Dorrani](https://www.youtube.com/watch?v=8O68-cc-QNo)-  Step-by-step tutorial on Microsoft Power Automate flow tips and tricks. 
 - [Microsoft Power Automate](https://www.youtube.com/c/MicrosoftFlow) - Microsoft Power Automate Official
+- [Automate with Rakesh](https://www.youtube.com/c/AutomatewithRakesh) - Lot of Curated content for UiPath Certification & Interview Guide
+- [Robot ICT](https://www.youtube.com/c/RobotICTcom) - Robot ICT Easy Friday Series
+- [UiPath with Jeppe](https://www.youtube.com/c/UiPathwithJeppe) - RPA Developer from Denmark who wants to share UiPath great Stuff.
+- [Tutorials by Mukesh Kala](https://www.youtube.com/c/TutorialsbyMukeshKala) - Exceptional content related to UiPath and Case Studies.
+- [botsDNA] (https://www.youtube.com/c/UIPathLearner) - by Sudheer Nimmagadda
+- [Tony IA (Intelligent Automation, Simplified)](https://www.youtube.com/channel/UCuBjCxXKLzRKui22wvVMsYA)- by Tony- weekly videos on new ways to implement and use Automation and AI technologies in the office
+- [Parth Doshi - Learning By Doing](https://www.youtube.com/c/ParthDoshiLearningByDoing)- By Parth Doshi
+- [Tom's Tech Academy](https://www.youtube.com/c/TomsTechAcademy)
+- [Learning RPA Technologies](https://www.youtube.com/c/LearningTechnologies) - Provide you free videos on  Microsoft Power Automate / Microsoft Power Automate Desktop / Blue Prism / Automation Anywhere / UiPath / SQL / DevOps , with 500 + theoretical and practical videos. 
+- [TheTestingAcademy Hindi](https://www.youtube.com/c/TheTestingAcademyHindi)- Learn the Software Testing and Automation in Hindi.
 
 
 ## Code Repositories 
@@ -157,6 +185,8 @@ Please see [CONTRIBUTING](https://github.com/rpabotsworld/awesome-rpa/blob/maste
  - [UiPath Dockerized Robot & CI/CD pipelines](https://github.com/AndreiBarbuOz/dockerized-robot)
  - [Microsoft Power Platform Connectors](https://github.com/microsoft/PowerPlatformConnectors) - Microsoft Power Platform Connectors open source repository
  - [Robotic Process Automation with Automation Anywhere](https://github.com/PacktPublishing/Robotic-Process-Automation-with-Automation-Anywhere) - This is the code repository for Robotic Process Automation with Automation Anywhere, published by Packt.
+ - [RPA Framework by Robocorp](https://github.com/robocorp/rpaframework)- RPA Framework is a collection of open-source libraries and tools for Robotic Process Automation (RPA), and it is designed to be used with both Robot Framework and Python.
+ - []
  
 
 
@@ -172,8 +202,12 @@ Please see [CONTRIBUTING](https://github.com/rpabotsworld/awesome-rpa/blob/maste
  - [Robotic Process Automation using UiPath StudioX: A Citizen Developer’s Guide to Hyperautomation](https://amzn.to/3owCSKW) - RPA developers and business users alike, bringing the power and skill set of automation to anyone interested in citizen-led development, specifically UiPath StudioX
  - [Robotic Process Automation with Automation Anywhere](https://amzn.to/3qL0Ogb)- Discover Automation Anywhere best practices and strategies for building scalable automation solutions for your organization
  - [INTELLIGENT AUTOMATION: Learn how to harness Artificial Intelligence](https://amzn.to/3Dmwkok) - By Pascal Bornet is a recognized global expert, thought leader, and pioneer in the field of intelligent automation (IA). He founded and led the IA practices for Mckinsey & Company and Ernst & Young (EY), where he drove hundreds of IA transformations across industries. 
- 
-
-
-
- 
+ - [UiPath Associate Certification Guide: The go-to guide to acing your Associate certification exam with the help of mock tests and quizzes](https://amzn.to/3TCoY8g) - By Niyaz, Lahiru Fernando, Rajaneesh. A practical syllabus-based UiPath Associate certification guide to confidently passing your UiPath RPA Associate certification examination, covering real-world business cases, mock tests, and more Key Features
+ - [UiPath Administration and Support Guide: Learn industry-standard practices for UiPath program support and administration activities](https://amzn.to/3TyKjQ5) - By Arun Kumar Asokan: An intelligent automation consultant and business process management professional.Practical explanations that go beyond UiPath official documentation to guide new UiPath Support professionals to excel in their workplace.
+ - [Robotic Process Automation using UiPath StudioX: A Citizen Developer’s Guide to Hyperautomation](https://amzn.to/3gtsvXI) - 
+ - [Democratizing Artificial Intelligence with UiPath: Expand automation in your organization to achieve operational efficiency and high performance](https://amzn.to/3D3UcOw) - Build an end-to-end platform in the cognitive automation lifecycle and explore UiPath Document Understanding, UiPath AI Center, and UiPath Chatbot Key Features * Explore Out of the box (OOTB) AI Models in UiPath
+ - [Workflow Automation with Microsoft Power Automate: Achieve digital transformation through business automation with minimal coding](https://amzn.to/3f3KR1k) By Aaron Guilmette, a Microsoft Teams technical specialist at Microsoft - Enhance your organization's productivity by automating repetitive tasks and simplifying business workflows using Microsoft Power Automate (formerly Microsoft Flow)
+ - [Getting started with RPA using Automation Anywhere :: Automate your day-to-day Business Processes using Automation Anywhere](https://amzn.to/3W09WdV) - Learn RPA using Automation Anywhere with step-by-step practical implementation 
+ - [SAP Intelligent RPA for Developers: Automate your business processes and save precious human hours with this practical guide to SAP's intelligent RPA](https://amzn.to/3SGUNvy) -Build intelligent bots with a low-code design studio with an Intelligent RPA platform from SAP to automate repetitive manual processes and thus improve the business process efficiency
+ - [RPA Solution Architect's Handbook: Discover your complete guide to design modernized and customized RPA solutions for digital innovation] (https://amzn.to/3SNWpDP) - Sachin manages a team of RPA developers, solution architects, and ML engineers. He has extensive experience in Business Process Automation (BPA), Intelligent Process Automation (IPA), Product Development, and in Project & Portfolio Management.
+ - [Democratizing RPA with Power Automate Desktop: Boost your productivity by applying best-practices for use-cases to automate repetitive desktop processes](https://amzn.to/3D2lQLT) - Become a Power Automate Desktop Expert by automating both professional and personal tasks. Understand all necessary concepts in the product from creating and modifying UI flows over debugging to error handling.
