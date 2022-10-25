@@ -57,13 +57,13 @@ Please see [CONTRIBUTING](https://github.com/rpabotsworld/awesome-rpa/blob/maste
  
 
 ### Important links of BluePrism
-
  - [Blue Prism Digital Exchange (DX)](https://digitalexchange.blueprism.com/dx/) - “app store” for finding and downloading pre-built workflow
  - [Blue Prism_ Global Customer Support](https://portal.blueprism.com/) - Customer Support
  - [Developer Community  ](https://community.blueprism.com/home) - Developer Community
  - [https://bpdocs.blueprism.com/](https://bpdocs.blueprism.com/) BluePrism Documentation Portal
  - [Pearson Blueprism Certification Portal ](https://home.pearsonvue.com/blueprism) Portal for Examination Scheduling
  
+
 ### Important links of Automation Anywhere
  - [Documentation Portal](https://docs.automationanywhere.com/) - All product documentation of Automation Anywhere
  - [Apeople community](https://apeople.automationanywhere.com/s/)Find solutions, share information, and follow topics.
@@ -88,13 +88,11 @@ Please see [CONTRIBUTING](https://github.com/rpabotsworld/awesome-rpa/blob/maste
 - [Login Portal](https://cloud.robocorp.com/)- 
 - [Blog](https://robocorp.com/blog)- Robocorp offers its clients the ability to build, scale, deploy, and maintain their robot workforce.
 
+
 ### Important links of SAP Intelligent Robotic Process Automation
-- [SAP Intelligent Robotic Process Automation (SAP Intelligent RPA)]()
 - [Register SAP Intelligent Robotic Process Automation (SAP Intelligent RPA)](https://www.sap.com/cmp/td/sap-intelligent-robotic-process-automation-free-trial.html)- SAP Intelligent RPA Free Trial is waiting for you!
 -[Document](https://help.sap.com/docs/IRPA?locale=en-US&state=PRODUCTION&version=Cloud)-With SAP Intelligent Robotic Process Automation, design and orchestrate software robots that automate business processes.
-- [Start Building Automations with SAP Intelligent RPA](https://developers.sap.com/mission.intelligent-rpa-automations-get-started.html)
-
-
+- [Start Building Automations with SAP Intelligent RPA](https://developers.sap.com/mission.intelligent-rpa-automations-get-started.html)- Learning 
 
 
 ## Must read blogs for RPA
@@ -128,15 +126,12 @@ Please see [CONTRIBUTING](https://github.com/rpabotsworld/awesome-rpa/blob/maste
  26. [Edureka](https://www.edureka.co/blog/category/robotic-process-automation/)
 
  
- 
-
 ### RPA Videos
 
 *Fantastic RPA-related videos.*
  - [UiPath Official](https://www.youtube.com/c/UiPath)
  - [Automation Anywhere](https://www.youtube.com/c/Automationanywhere)
  - [Blue Prism](https://www.youtube.com/user/BluePrismLtd)
- - 
  - [RPA Tutorial For Beginners By Edureka](https://www.youtube.com/watch?v=MBl-3Yb30FA) - Robotic Process Automation Full Course - 10 Hours 
  - [UiPath Tutorials By  Intellipaat](https://www.youtube.com/watch?v=CeQ0ESO6Ulw)-RPA Tutorial For Beginners  
  - [Tutorial by Manish Pandey](https://www.youtube.com/channel/UCeXwbw8GolO8Xxg-tyVQsLg) - Many example on UiPath
@@ -186,11 +181,6 @@ Please see [CONTRIBUTING](https://github.com/rpabotsworld/awesome-rpa/blob/maste
  - [Microsoft Power Platform Connectors](https://github.com/microsoft/PowerPlatformConnectors) - Microsoft Power Platform Connectors open source repository
  - [Robotic Process Automation with Automation Anywhere](https://github.com/PacktPublishing/Robotic-Process-Automation-with-Automation-Anywhere) - This is the code repository for Robotic Process Automation with Automation Anywhere, published by Packt.
  - [RPA Framework by Robocorp](https://github.com/robocorp/rpaframework)- RPA Framework is a collection of open-source libraries and tools for Robotic Process Automation (RPA), and it is designed to be used with both Robot Framework and Python.
- - []
- 
-
-
-
 
 ## Books 
 *List of Known Books .*
